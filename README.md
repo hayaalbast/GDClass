@@ -1,4 +1,3 @@
 # GDClass
-
-Linear regression implemented using gradient descent, mini batch gradient descent, and stochastic gradient descent, all with regularization.
+A random equation was generated, then Linear Regression was implemented using Gradient Descent, Mini Batch Gradient Descent, and Stochastic Gradient Descent, using object-oriented programming, all with Regularization.
 
